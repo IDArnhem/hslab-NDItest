@@ -18,7 +18,7 @@ Project{
         ]
 
         of.addons: [
-            'ofxRealSense2',
+//            'ofxRealSense2',
             'ofxNDI'
         ]
 
